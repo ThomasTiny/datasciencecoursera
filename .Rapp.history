@@ -1,0 +1,47 @@
+R
+demo()
+e <- available.packages()
+a <- available.packages()
+getwd()
+getwd)()
+getwd()
+x <- 99
+x
+print x
+print (x)
+x <- 95:99
+print (x)
+x <- 22,33,44
+x <- 22 33 44
+x <- 22.33.44
+x <- [22,33,44]
+y <- Inf
+print (y)
+x <- c(22,33,44)
+x
+y <- x('a', True)
+y <- c('a', True)
+y <- c('a', TRUE)
+y
+getwd()
+getwd()
+whoami
+help
+help read.table()
+help read.table
+read.table
+?read.table
+y <- data.frame(a=1, b="a")
+dput(y)
+dput(y, file ="y.R")
+new.y <- dget("y.R")
+new.y
+x <- "foo"
+y <- data.frame(a = 1L, b="a")
+x <- matrix(1:6, 2,3)
+x
+x[1]
+x[1,]
+x[1,2]
+x[1,2, drop = false]
+x[1,2, drop = FALSE]
